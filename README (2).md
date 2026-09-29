@@ -73,9 +73,7 @@ The dashboard helps users identify:
 5. Interact with the charts and KPI cards.
 6. Analyze the displayed trends and insights.
 
-## 📁 Project File
-- `PowerBITask4.pbix`
-- `README.md`
+
 
 ## 📌 Conclusion
 Power BI Task 4 demonstrates the use of data preparation, data modeling, DAX calculations, and interactive visualization to convert raw data into a meaningful analytical dashboard. The dashboard provides an organized and interactive way to explore the dataset and understand important patterns and performance indicators.
